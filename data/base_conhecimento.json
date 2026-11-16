@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "categoria": "Saúde",
+    "titulo": "Fazer o Cartão Nacional de Saúde (Cartão SUS)",
+    "palavras_chave": [
+      "cartao sus",
+      "cartao do sus",
+      "sus",
+      "cns",
+      "cartao nacional de saude"
+    ],
+    "resposta": "Pode ser feito em uma UBS ou no app Meu SUS Digital.",
+    "documentos": [
+      "Documento com foto",
+      "CPF"
+    ],
+    "onde": "Qualquer UBS ou aplicativo Meu SUS Digital",
+    "fonte": "https://www.gov.br/saude",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 2,
+    "categoria": "Saúde",
+    "titulo": "Vacinação para pessoas idosas",
+    "palavras_chave": [
+      "vacina",
+      "vacinacao",
+      "vacina da gripe",
+      "campanha de vacinacao",
+      "caderneta de vacinacao"
+    ],
+    "resposta": "A vacinação é gratuita nas UBS do SUS. Leve sua caderneta de vacinação para o profissional ver quais vacinas estão em dia.",
+    "documentos": [
+      "Documento com foto",
+      "Caderneta de vacinação (se tiver)"
+    ],
+    "onde": "UBS mais próxima da sua casa",
+    "fonte": "https://www.gov.br/saude",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 3,
+    "categoria": "Saúde",
+    "titulo": "Remédios gratuitos pelo Farmácia Popular",
+    "palavras_chave": [
+      "farmacia popular",
+      "remedio gratis",
+      "remedio de graca",
+      "medicamento gratuito",
+      "remedio"
+    ],
+    "resposta": "O programa Farmácia Popular oferece alguns medicamentos gratuitos, como os usados para hipertensão, diabetes e asma, em farmácias credenciadas.",
+    "documentos": [
+      "Documento com foto",
+      "CPF",
+      "Receita médica válida"
+    ],
+    "onde": "Farmácias credenciadas ao programa",
+    "fonte": "https://www.gov.br/saude",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 4,
+    "categoria": "Direitos",
+    "titulo": "Transporte coletivo gratuito para pessoas idosas",
+    "palavras_chave": [
+      "transporte gratuito",
+      "onibus gratis",
+      "passe livre",
+      "gratuidade no onibus",
+      "bilhete do idoso"
+    ],
+    "resposta": "Pessoas com 65 anos ou mais têm direito à gratuidade no transporte coletivo urbano. Algumas cidades concedem a partir dos 60 anos. A forma de pedir (cadastro ou cartão) varia por cidade.",
+    "documentos": [
+      "Documento com foto",
+      "CPF",
+      "Comprovante de residência (varia por cidade)"
+    ],
+    "onde": "Órgão de transporte da sua cidade",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 5,
+    "categoria": "Direitos",
+    "titulo": "Atendimento prioritário para pessoas idosas",
+    "palavras_chave": [
+      "prioridade",
+      "atendimento prioritario",
+      "fila preferencial",
+      "atendimento preferencial",
+      "preferencial"
+    ],
+    "resposta": "Pessoas com 60 anos ou mais têm prioridade no atendimento em órgãos públicos e serviços. Quem tem 80 anos ou mais tem prioridade especial entre as pessoas idosas.",
+    "documentos": [
+      "Documento com foto"
+    ],
+    "onde": "Órgãos públicos, bancos e outros serviços",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 6,
+    "categoria": "Direitos",
+    "titulo": "Meia-entrada em cultura, esporte e lazer",
+    "palavras_chave": [
+      "meia entrada",
+      "cinema",
+      "teatro",
+      "ingresso",
+      "desconto cultura"
+    ],
+    "resposta": "Pessoas com 60 anos ou mais têm direito de pagar metade do preço em eventos culturais, esportivos e de lazer.",
+    "documentos": [
+      "Documento oficial com foto"
+    ],
+    "onde": "Bilheterias de cinemas, teatros e eventos",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 7,
+    "categoria": "Benefícios",
+    "titulo": "Pedir aposentadoria pelo Meu INSS",
+    "palavras_chave": [
+      "aposentadoria",
+      "aposentar",
+      "inss",
+      "meu inss",
+      "135"
+    ],
+    "resposta": "O pedido pode ser feito pelo site ou app Meu INSS ou pela central telefônica 135.",
+    "documentos": [
+      "Documento com foto",
+      "CPF",
+      "Carteira de trabalho ou comprovantes de contribuição"
+    ],
+    "onde": "Site ou app Meu INSS, ou telefone 135",
+    "fonte": "https://www.gov.br/inss",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 8,
+    "categoria": "Benefícios",
+    "titulo": "Benefício de Prestação Continuada (BPC) para pessoa idosa",
+    "palavras_chave": [
+      "bpc",
+      "loas",
+      "beneficio de prestacao continuada",
+      "beneficio assistencial",
+      "idoso sem renda"
+    ],
+    "resposta": "O BPC é um benefício mensal de um salário mínimo para pessoa com 65 anos ou mais e renda familiar baixa. Não é aposentadoria. É preciso estar no CadÚnico e fazer o pedido pelo Meu INSS ou 135.",
+    "documentos": [
+      "Documento com foto",
+      "CPF",
+      "Comprovante de residência",
+      "Inscrição no CadÚnico"
+    ],
+    "onde": "CRAS (para o CadÚnico) e Meu INSS ou telefone 135",
+    "fonte": "https://www.gov.br/inss",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 9,
+    "categoria": "Benefícios",
+    "titulo": "Fazer o CadÚnico",
+    "palavras_chave": [
+      "cadunico",
+      "cadastro unico",
+      "cras",
+      "cadastro social"
+    ],
+    "resposta": "O CadÚnico é feito no CRAS ou no setor de assistência social da prefeitura. Ele serve de porta de entrada para benefícios sociais.",
+    "documentos": [
+      "Documento com foto",
+      "CPF ou título de eleitor do responsável pela família"
+    ],
+    "onde": "CRAS ou prefeitura da sua cidade",
+    "fonte": "https://www.gov.br/mds",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 10,
+    "categoria": "Proteção",
+    "titulo": "Denunciar violência ou maus-tratos contra pessoa idosa",
+    "palavras_chave": [
+      "disque 100",
+      "denuncia",
+      "violencia contra idoso",
+      "maus tratos",
+      "abuso"
+    ],
+    "resposta": "Ligue 100. A ligação é gratuita e o serviço funciona todos os dias, 24 horas. Em caso de perigo imediato, ligue 190.",
+    "documentos": [
+      "Nenhum documento é necessário"
+    ],
+    "onde": "Telefone 100 (Disque Direitos Humanos)",
+    "fonte": "https://www.gov.br/mdh",
+    "verificado_em": "2026-11-12"
+  }
+]
