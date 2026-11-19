@@ -103,17 +103,17 @@ Testado com **X pessoas** de fora da equipe, somando **Y atendimentos** (nenhum 
 
 | Indicador | Resultado |
 |---|---|
-| Resposta encontrada (%) | |
-| Taxa de acerto: ajudou (%) | |
-| Tempo médio para encontrar (s) | |
-| Tentativas por atendimento | |
-| Facilidade de uso (1 a 5) | |
+| Resposta encontrada (%) | 88.9 |
+| Taxa de acerto: ajudou (%) | 88.9 |
+| Tempo médio para encontrar (s) | 23.3 s |
+| Tentativas por atendimento | 1.1 |
+| Facilidade de uso (1 a 5) | 5.0 |
 
 **Dúvidas sem solução:**
-- (liste aqui as perguntas)
+- pergunta: Posso andar de ônibus de graça?
 
 **Melhoria feita a partir do teste:**
-- (ex.: incluída a palavra-chave "xxx" na orientação N)
+- incluido a frase "onibus de graça" na **{base_conhecimento.json}**
 
 ## Limitações
 - A busca é por regras: só entende palavras que estão nas palavras-chave ou no título, não entende sinônimos nem erros de digitação.
@@ -123,4 +123,4 @@ Testado com **X pessoas** de fora da equipe, somando **Y atendimentos** (nenhum 
 - Este assistente **NÃO é um canal oficial**.
 
 ## Vídeo técnico
-(cole aqui o link do YouTube não listado)
+https://youtu.be/KR_V4BHSea8
