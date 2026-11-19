@@ -17,7 +17,7 @@
     ],
     "onde": "Qualquer UBS ou aplicativo Meu SUS Digital",
     "fonte": "https://www.gov.br/saude",
-    "verificado_em": "2026-11-12"
+    "verificado_em": "2026-11-17"
   },
   {
     "id": 2,
@@ -37,7 +37,7 @@
     ],
     "onde": "UBS mais próxima da sua casa",
     "fonte": "https://www.gov.br/saude",
-    "verificado_em": "2026-11-12"
+    "verificado_em": "2026-11-17"
   },
   {
     "id": 3,
@@ -58,7 +58,7 @@
     ],
     "onde": "Farmácias credenciadas ao programa",
     "fonte": "https://www.gov.br/saude",
-    "verificado_em": "2026-11-12"
+    "verificado_em": "2026-11-17"
   },
   {
     "id": 4,
@@ -69,7 +69,8 @@
       "onibus gratis",
       "passe livre",
       "gratuidade no onibus",
-      "bilhete do idoso"
+      "bilhete do idoso",
+      "onibus de graça"
     ],
     "resposta": "Pessoas com 65 anos ou mais têm direito à gratuidade no transporte coletivo urbano. Algumas cidades concedem a partir dos 60 anos. A forma de pedir (cadastro ou cartão) varia por cidade.",
     "documentos": [
@@ -79,7 +80,7 @@
     ],
     "onde": "Órgão de transporte da sua cidade",
     "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
-    "verificado_em": "2026-11-12"
+    "verificado_em": "2026-11-17"
   },
   {
     "id": 5,
@@ -98,7 +99,7 @@
     ],
     "onde": "Órgãos públicos, bancos e outros serviços",
     "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
-    "verificado_em": "2026-11-12"
+    "verificado_em": "2026-11-17"
   },
   {
     "id": 6,
@@ -117,7 +118,7 @@
     ],
     "onde": "Bilheterias de cinemas, teatros e eventos",
     "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
-    "verificado_em": "2026-11-12"
+    "verificado_em": "2026-11-17"
   },
   {
     "id": 7,
@@ -138,7 +139,7 @@
     ],
     "onde": "Site ou app Meu INSS, ou telefone 135",
     "fonte": "https://www.gov.br/inss",
-    "verificado_em": "2026-11-12"
+    "verificado_em": "2026-11-17"
   },
   {
     "id": 8,
@@ -160,7 +161,7 @@
     ],
     "onde": "CRAS (para o CadÚnico) e Meu INSS ou telefone 135",
     "fonte": "https://www.gov.br/inss",
-    "verificado_em": "2026-11-12"
+    "verificado_em": "2026-11-17"
   },
   {
     "id": 9,
@@ -179,7 +180,7 @@
     ],
     "onde": "CRAS ou prefeitura da sua cidade",
     "fonte": "https://www.gov.br/mds",
-    "verificado_em": "2026-11-12"
+    "verificado_em": "2026-11-17"
   },
   {
     "id": 10,
@@ -198,6 +199,6 @@
     ],
     "onde": "Telefone 100 (Disque Direitos Humanos)",
     "fonte": "https://www.gov.br/mdh",
-    "verificado_em": "2026-11-12"
+    "verificado_em": "2026-11-17"
   }
 ]

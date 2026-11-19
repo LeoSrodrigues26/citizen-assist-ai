@@ -1,0 +1,101 @@
+[
+  {
+    "data": "2026-11-17 20:25:55",
+    "origem": "pergunta",
+    "pergunta": "Como faço o cartão do SUS?",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_s": 49.1,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-17 20:26:17",
+    "origem": "pergunta",
+    "pergunta": "onde tomo a vacina da gripe?",
+    "id_orientacao": 2,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_s": 21.6,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-17 20:26:22",
+    "origem": "pergunta",
+    "pergunta": "como pedir aposentadoria no INSS",
+    "id_orientacao": 7,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_s": 5.0,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-17 20:26:33",
+    "origem": "pergunta",
+    "pergunta": "tenho direito a desconto no cinema?",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_s": 11.4,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-17 20:26:45",
+    "origem": "pergunta",
+    "pergunta": "quero remédio de graça",
+    "id_orientacao": 3,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_s": 11.8,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-17 20:26:53",
+    "origem": "pergunta",
+    "pergunta": "fila preferencial no banco",
+    "id_orientacao": 5,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_s": 7.7,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-17 20:27:39",
+    "origem": "pergunta",
+    "pergunta": "meu avô sofre maus tratos",
+    "id_orientacao": 10,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_s": 46.2,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-17 20:28:13",
+    "origem": "pergunta",
+    "pergunta": "como me cadastro no cadunico",
+    "id_orientacao": 9,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 2,
+    "tempo_s": 33.8,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-17 20:28:20",
+    "origem": "pergunta",
+    "pergunta": "posso andar de ônibus de graça?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_s": 7.2,
+    "nota_facilidade": 5
+  }
+]
